@@ -1,1 +1,1 @@
-# C-PeakFinder-2019
+# C++-PeakFinder-2019
